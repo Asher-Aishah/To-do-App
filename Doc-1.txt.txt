@@ -1,0 +1,2 @@
+This is me relearning Django and i have a time frame of 3weeks
+Wish me luck!
